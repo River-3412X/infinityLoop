@@ -1,0 +1,48 @@
+
+
+.container{
+    position: relative;
+    background-color:#10171f ;
+    padding: 5px;
+    border-radius: 7px;
+}
+p{
+    text-align: justify;
+}
+.tarjeta{
+    margin: 10px 10px;
+    background-color: #b9bcb3;
+    border-radius: 7px;
+    padding: 30px 10px;
+}
+
+.encabezado{
+    text-align: center;
+}
+
+.encabezado img{
+    width: 200px;
+    border-radius: 50%;
+
+}
+
+.cuerpo button , .cuerpo a{
+    position: relative;
+    display: block;
+    margin:15px;
+}
+
+
+#button_facebook{
+    background-color: #415ca0;
+    color: #b9bcb3;
+}
+#button_whatsapp{
+    color: #b9bcb3;
+    background-color: #3fb652;
+}
+#button_instagram{
+    background-color: #d4448b;
+    color: #b9bcb3;
+
+}
